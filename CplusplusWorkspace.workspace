@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CplusplusWorkspace" Database="" Version="10000">
+  <Project Name="BasicProgram" Path="BasicProgram/BasicProgram.project" Active="No"/>
+  <Project Name="BasicProblem" Path="BasicProblem/BasicProblem.project" Active="No"/>
+  <Project Name="VectorProgram" Path="VectorProgram/VectorProgram.project" Active="No"/>
+  <Project Name="StatemetnsAndOperators" Path="StatemetnsAndOperators/StatemetnsAndOperators.project" Active="No"/>
+  <Project Name="loops" Path="loops/loops.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="BasicProgram" ConfigName="Debug"/>
+      <Project Name="BasicProblem" ConfigName="Debug"/>
+      <Project Name="VectorProgram" ConfigName="Debug"/>
+      <Project Name="StatemetnsAndOperators" ConfigName="Debug"/>
+      <Project Name="loops" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="BasicProgram" ConfigName="Release"/>
+      <Project Name="BasicProblem" ConfigName="Release"/>
+      <Project Name="VectorProgram" ConfigName="Release"/>
+      <Project Name="StatemetnsAndOperators" ConfigName="Release"/>
+      <Project Name="loops" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
